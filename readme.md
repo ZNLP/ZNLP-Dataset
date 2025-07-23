@@ -20,4 +20,5 @@ For years of technical accumulation, our research group has developed several da
 
 ## Others
 1. Dataset for Speech Translation [[paper](http://www.nlpr.ia.ac.cn/cip/ZongPublications/2019/2019-liuyuchen-interspeech.pdf)][[Baidu Link, Passwd: bva0](https://pan.baidu.com/s/18L-59wgeS96WkObISrytQQ)]
+2. Dataset for Text Provenance [[paper](https://aclanthology.org/2025.acl-long.577.pdf)][[Github](https://github.com/ZNLP/TROVE)]
 
